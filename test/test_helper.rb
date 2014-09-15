@@ -12,6 +12,6 @@ require 'minitest/unit'
 #end
 #SimpleCov.start 
 
-require File.dirname(__FILE__) + '/../lib/estorm_lotto_gem'
+require File.dirname(__FILE__) + '/../lib/estorm_button'
 
 
