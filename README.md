@@ -2,15 +2,15 @@
 [[![Code Climate](https://codeclimate.com/repos/5308ca80695680067600452f/badges/7d75a935ef5116947595/gpa.png)](https://codeclimate.com/repos/5308ca80695680067600452f/feed)
 [![Gem Version](https://badge.fury.io/rb/estorm_lotto_gem.png)](http://badge.fury.io/rb/estorm_lotto_gem)
 
-estorm_lotto_gem
+estorm_button
 ============
 
-Gem for lottery actions and remote stuff
+Gem for button on raspberry pi.
 
 
-Setup for Gemfury
-=================
-git remote add fury https://semdinsp@git.fury.io/semdinsp/<package-name>.git
-git push --tags fury master
+pi_piper
+==========
+
+Remember that early versions of pi_piper can not hold the resistors high.  You may need to call a python script to do that.
 
 
